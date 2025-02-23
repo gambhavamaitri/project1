@@ -1,4 +1,4 @@
-module duhacks (
+module sensorInterface(
     input wire clk,
     input wire reset,
     input wire sensor_data_ready,
